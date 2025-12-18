@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "光の向こうへ (Piano ver.)",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-18T07:51:29.124848Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光の向こうへ",
+      "artist": "Hachi",
+      "has_synced": false,
+      "path": "select/pl_01_光の向こうへ_Hachi.txt"
+    }
+  ]
+}
